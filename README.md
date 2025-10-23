@@ -1,4 +1,4 @@
-# ContactManagerApp (CPAN 213)
+# ContactManagerApp 
 
 ## Setup
 ```bash
